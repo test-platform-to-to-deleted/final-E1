@@ -1,7 +1,0 @@
-#+TITLE: Index
-#+AUTHOR: Vlead
-
-* Final
-** [[./introduction-E1/introduction-E1.org][Introduction]]
-** [[./new-specification-E1/new-specification-E1.org][new-specification]]
-** [[./new-for-testing-E1/new-for-testing-E1.org][new-for-testing]]
